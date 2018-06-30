@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-# This is then[Link to app](https://atinukeid.github.io/Atinuke_project_pixelArtMaker/)
+# This is the [Link to app](https://atinukeid.github.io/Atinuke_project_pixelArtMaker/)
 
 ## Instructions
 
