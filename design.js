@@ -18,12 +18,11 @@ function makeGrid(x, y) {
 			$('#table' + r).append('<td></td>');
 		}
 	}
+    alert('Feel free to color the canvas!');
 $('#pixelCanvas').click(function(event) {
 	let color = $('#colorPicker').val();
 	$(event.target).css('background-color',color);
-	$('td').mouseup(function(){
-    alert('Feel free to color the canvas!');
-    }); 
+	 
 });
  
 }
